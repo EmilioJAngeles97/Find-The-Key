@@ -2,8 +2,11 @@
 Submission for Homework #5 CMPM 121
 
 Controls
-/nWASD: Movement
-/nArrow Keys(Left/Right): Look Direction
-/nSpace: Pick Up
 
-/nObjective: Find the Key to open the door!
+WASD: Movement
+
+Arrow Keys(Left/Right): Look Direction
+
+Space: Pick Up
+
+Objective: Find the Key to open the door!
